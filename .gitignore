@@ -6,3 +6,5 @@
 /train
 /train_image_dict.json
 /validate
+saved_models/
+wandb/
