@@ -5,7 +5,7 @@ import cv2
 ################################################################################
 # CHANGE THIS
 ################################################################################
-cleaned_images_dir = "path/to/your/cleaned/images"
+cleaned_images_dir = "competition_images/cleaned/"
 
 ################################################################################
 # DON'T CHANGE ANYTHING BELOW HERE

@@ -8,3 +8,7 @@
 /validate
 saved_models/
 wandb/
+submission.csv
+test_image_dict.json
+validate_image_dict.json
+__pycache__/DenoisingNet.cpython-310.pyc
